@@ -1,0 +1,13 @@
+[
+    {
+        "offerName": "buy 3 for 2 deal",
+        "minQty": 3,
+        "skus": ["atv"]
+    },
+    {
+        "offerName": "bulk discount",
+        "minQty": 5,
+        "skus": ["ipd"],
+        "discountPrice": 499.99
+    }
+]
